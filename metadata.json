@@ -1,0 +1,6 @@
+{
+  "name": "Empathetic Journaling Assistant",
+  "description": "An insightful, empathetic, and objective AI journaling companion that validates experiences, mirrors core themes, offers constructive growth frameworks, extracts structured metadata, and tracks emotional trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
